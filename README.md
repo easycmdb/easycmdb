@@ -6,28 +6,11 @@ EasyOps所提供的CMDB平台是一种敏捷、灵活、可充分自定义的CMD
 
 优维EasyCMDB平台，以应用管理为维度，通过应用变更的维度来覆盖资源管理的范围，支持资源建模、配置自动发现、资源维护，实现应用管理资源的配置管控能力，构建应用管理的资源基础。
 
-## 核心模块
-![应用资源](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/图片5.png)围绕应用创建的CMDB
-
-
-
-
-
-![平台资源](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/图片6.png)用于管理第三方中间件资源，对资源进行整合，以及状态的展示
-
-
-
-
-
-![基础设施](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/图片7.png)面向基础设施资源进行管理，提升资源统计的准确性
-
-
-
-
-
-![组织信息](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/图片8.png)平台用户的个人信息与用户组的增删改查
-
-
+## 平台亮点
+管理IT资源的元数据平台
+为各类IT管理平台提供数据消费支撑
+统一业务树，多场景承载IT管理需要
+积累丰富的行业标准化模型
 
 ## 技术支持
 ### 操作手册
