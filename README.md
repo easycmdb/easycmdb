@@ -20,9 +20,6 @@ EasyOps所提供的CMDB平台是一种敏捷、灵活、可充分自定义的CMD
 
 ### FAQ
 
-### 技术交流群
-欢迎扫码加入我们的技术交流群
-![qq群](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/QQ群.jpg)
-
 ### Links
 [优维科技官网](http://www.uwintech.cn/)
+[优维技术交流群](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/QQ群.jpg)
