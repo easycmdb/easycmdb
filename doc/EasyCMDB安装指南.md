@@ -18,21 +18,17 @@ git clone …………………
 
 ### 系统版本
 
-1.  系统版本:CentOS/RHEL 6.5\~6.8
+系统版本:CentOS/RHEL 6.5\~6.8
 
 ### 硬件选择
 
-1.  最低配置: 4核CPU、16GB以上内存，/data/可用
-    空间100GB以上，/usr/local/空间10GB以上 ，/tmp/ 可用空间10GB以上
+ 最低配置: 4核CPU、16GB以上内存，/data/可用空间100GB以上，/usr/local/空间10GB以上 ，/tmp/ 可用空间10GB以上
 
 ### 系统环境
 
-（1）保证系统环境干净，如有运行 mysql、nginx、apache、mongodb
-等程序，会导致安装失败
-
-（2）开放服务器端口22、5511、8820
-
-（3）安装nc，安装命令：yum install -y nc
+- 保证系统环境干净，如有运行 mysql、nginx、apache、mongodb等程序，会导致安装失败
+- 开放服务器端口22、5511、8820
+- 安装nc，安装命令：yum install -y nc
 
 安装步骤
 --------
@@ -60,12 +56,10 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 安装完成
 --------
 
-1.  安装成功后,在浏览器中输入对应IP进入即可。
-
-2.  管理员用户名为EasyOps，初始密码为随机密码，保存在 \~/.EasyOps中, 执行"cat
+- 安装成功后,在浏览器中输入对应IP进入即可。
+- 管理员用户名为EasyOps，初始密码为随机密码，保存在 \~/.EasyOps中, 执行"cat
     \~/.EasyOps"命令查看密码。
-
-3.  程序安装的目录在/usr/local/easyops/下。
+- 程序安装的目录在/usr/local/easyops/下。
 
 完整安装及卸载
 ==============
@@ -73,7 +67,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 查看UC命令参数
 --------------
 
-（1）-h可以查看UC命令参数
+-h可以查看UC命令参数
 
 ![](media/62dcdc9c8bb9c85baa99ba521013970c.png)
 
@@ -107,11 +101,11 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 
 ### 修改平台安装包下的easyops_hosts.ini
 
-1）进入平台安装包的conf目录下（如:/tmp/easyopsCMDB.build.001/conf）
+(1) 进入平台安装包的conf目录下（如:/tmp/easyopsCMDB.build.001/conf）
 
 ![](media/d5962eee0780ba1330168c6e9e7b8d02.png)
 
-2）根据集群机器数选用哪个easyops_hosts-X.ini，执行命令“cp easyops_hosts-X.ini
+(2) 根据集群机器数选用哪个easyops_hosts-X.ini，执行命令“cp easyops_hosts-X.ini
 easyops_hosts.ini”，例如：5机的集群，执行命令“cp easyops_hosts-5.ini
 easyops_hosts.ini”
 
