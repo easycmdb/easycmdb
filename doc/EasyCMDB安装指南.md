@@ -22,12 +22,12 @@ git clone …………………
 
 ### 硬件选择
 
-1.  最低配置: 4核CPU、16GB以上内存，/data/可
+1.  最低配置: 4核CPU、16GB以上内存，/data/可用
     空间100GB以上，/usr/local/空间10GB以上 ，/tmp/ 可用空间10GB以上
 
 ### 系统环境
 
-（1）保证系统环境干净，如有运 mysql、nginx、apache、mongodb
+（1）保证系统环境干净，如有运行 mysql、nginx、apache、mongodb
 等程序，会导致安装失败
 
 （2）开放服务器端口22、5511、8820
