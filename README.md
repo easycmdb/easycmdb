@@ -23,7 +23,7 @@ EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统C
 - [EasyCMDB快速上手手册](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB快速上手手册.md)
 - [EasyCMDB安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB安装指南.md)
 ### FAQ
-![技术交流群](https://github.com/easycmdb/easycmdb/blob/master/img/qq群.jpg)
+![技术交流群](https://github.com/easycmdb/easycmdb/blob/master/img/qq群.png)
 ### Links
 - [优维科技官网](http://www.uwintech.cn/)
 
