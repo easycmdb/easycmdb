@@ -26,4 +26,4 @@ EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统C
 ![技术交流群](https://github.com/easycmdb/easycmdb/blob/master/img/qq群.jpg)
 ### Links
 - [优维科技官网](http://www.uwintech.cn/)
-- [优维技术交流群](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/QQ群.jpg)
+
