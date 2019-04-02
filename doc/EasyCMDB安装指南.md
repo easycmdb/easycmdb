@@ -61,7 +61,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
     \~/.EasyOps"命令查看密码。
 - 程序安装的目录在/usr/local/easyops/下。
 
-完整安装及卸载
+第2章 完整安装及卸载
 ==============
 
 查看UC命令参数
@@ -84,7 +84,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 
 ![](media/dcec666e3d6f1cd7e284dacacc669161.png)
 
-### EasyOps平台卸载
+## EasyOps平台卸载
 
 （1）把准备装的压缩包放到部署服务器**随意**目录下，例如：/tmp目录或者/root目录；
 
@@ -122,7 +122,7 @@ secondary，IP地址按需分配下去就行（如果内网测试，按顺序编
 但如果是升级集群，先要看现网mongo
 primary和mongo secondary在什么IP上，根据现网实际使用把对应的IP填写到[host3]、[host4]和[host5]
 
-### 集群卸载
+## 集群卸载
 
 只需要在集群一台机器上执行下面命令，可以用于卸载旧uc安装的easyops平台，参数-hosts
 指定卸载哪些机器（easyops_hosts.ini 的配置看上面1的描述）；
