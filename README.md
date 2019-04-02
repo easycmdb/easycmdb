@@ -16,13 +16,13 @@ EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统C
 积累丰富的行业标准化模型
 
 ## 平台指南
-[产品架构](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/CMDB功能架构.jpg)
+[产品架构](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB功能架构.jpg)
 
 应用场景
 
 版本更新
 
-API列表
+[API列表](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDBapi.md)
 
 ## 技术支持
 ### 操作手册
