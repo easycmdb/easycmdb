@@ -69,7 +69,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 
 -h可以查看UC命令参数
 
-![](media/62dcdc9c8bb9c85baa99ba521013970c.png)
+![查看参数](https://github.com/easycmdb/easycmdb/blob/master/img/uc命令参数1.png)
 
 单机部署EasyOps平台
 -------------------
@@ -82,7 +82,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 执行命令例子：./bin/easyuc -ip 127.0.0.1 -license
 /tmp/easyops_Enterprise_0715.zl
 
-![](media/dcec666e3d6f1cd7e284dacacc669161.png)
+![单机部署](https://github.com/easycmdb/easycmdb/blob/master/img/单机部署.png)
 
 ## EasyOps平台卸载
 
@@ -103,7 +103,7 @@ c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
 
 (1) 进入平台安装包的conf目录下（如:/tmp/easyopsCMDB.build.001/conf）
 
-![](media/d5962eee0780ba1330168c6e9e7b8d02.png)
+![修改安装包](https://github.com/easycmdb/easycmdb/blob/master/img/修改平台安装包.png)
 
 (2) 根据集群机器数选用哪个easyops_hosts-X.ini，执行命令“cp easyops_hosts-X.ini
 easyops_hosts.ini”，例如：5机的集群，执行命令“cp easyops_hosts-5.ini
@@ -131,4 +131,4 @@ primary和mongo secondary在什么IP上，根据现网实际使用把对应的I
 /tmp/easyops-3.build.001/conf/easyops_hosts.ini
 -uninstall(一定要在bin的同级目录执行)
 
-![](media/e216d1384f2b99fa3527ac8ada749c59.png)
+![集群卸载](https://github.com/easycmdb/easycmdb/blob/master/img/集群卸载.png)
