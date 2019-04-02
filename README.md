@@ -1,5 +1,6 @@
 # EasyCMDB基础版
 ## EasyCMDB基础版功能概述
+![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
 EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统CMDB资产管理的局限，从应用视角出发，管理企业一切软硬件IT资源，提供准确信息供上层平台及周边系统场景消费的产品。
 
 优维科技所提供的EasyOpsCMDB平台是一种敏捷、灵活、可充分自定义的CMDB平台。不同的企业可以根据所属行业的特点和自身IT系统管理的需求来自定义CMDB平台上所需要管理的资源对象和对象内的属性。通过自定义资源对象，企业不但能够针对各种硬件资产进行有效管理，而且能够对硬件上所运行的不同应用程序、以及相关的配置、权限、和访问关系等逻辑配置信息进行有效的管理。EasyOpsCMDB还提供了全功能的API接口，各种外部系统通过通过标准的RESTFUL API与平台的CMDB进行交互，实现动态、高效的配置信息的读写交互。
