@@ -6,20 +6,28 @@ EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统C
 
 优维EasyCMDB正式版，以应用管理为维度，通过应用变更的维度来覆盖资源管理的范围，支持资源建模、配置自动发现、资源维护，实现应用管理资源的配置管控能力，构建应用管理的资源基础。
 
-## 平台指南
-产品架构
-应用场景
-版本更新
-
 ## 平台亮点
 管理IT资源的元数据平台
+
 为各类IT管理平台提供数据消费支撑
+
 统一业务树，多场景承载IT管理需要
+
 积累丰富的行业标准化模型
+
+## 平台指南
+[产品架构](https://github.com/easycmdb/easycmdb/blob/easycmdb-patch-1/CMDB功能架构.jpg)
+
+应用场景
+
+版本更新
+
+API列表
 
 ## 技术支持
 ### 操作手册
-[操作手册](https://github.com/easycmdb/easycmdb/blob/master/easyopsCMDB快速上手手册.docx)
+[EasyCMDB快速上手手册](https://github.com/easycmdb/easycmdb/blob/master/easyopsCMDB快速上手手册.docx)
+
 ### FAQ
 
 ### Links
