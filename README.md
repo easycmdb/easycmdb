@@ -1,5 +1,5 @@
 # EasyCMDB基础版
-## EasyCMDB基础版功能概述
+## 功能概述
 ![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
 
 EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统CMDB资产管理的局限，从应用视角出发，管理企业一切软硬件IT资源，提供准确信息供上层平台及周边系统场景消费的产品。
