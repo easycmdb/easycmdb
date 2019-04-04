@@ -49,7 +49,8 @@ EasyCMDB快速上手手册
 
 >   首先我们新建插件脚本格式：
 
-`\#!/usr/local/easyops/python/bin/python
+```
+\#!/usr/local/easyops/python/bin/python
 
 \# encoding: utf-8
 
@@ -61,7 +62,8 @@ json_data = [{
 
 "port": 22, \#这个是定义模型端口的字段
 
-}, ]`
+}, ]
+```
 
 AutoDiscoveryJson(json_data,object_id="HOST_DAEMO") \#object_id
 后面接的是模型的ID
