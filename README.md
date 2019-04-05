@@ -1,4 +1,7 @@
 # EasyCMDB基础版
+
+## [下载使用](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz)
+
 ## 功能概述
 ![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
 
