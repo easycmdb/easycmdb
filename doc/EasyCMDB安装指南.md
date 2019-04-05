@@ -9,7 +9,7 @@ EasyCMDB安装指南
 
 ### 获取安装包
 
-git clone xxxxxxxxxxxxxxxxxxxxxxxx
+git clone 
 
 安装环境准备
 ------------
