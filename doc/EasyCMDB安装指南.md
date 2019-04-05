@@ -85,13 +85,13 @@ git clone xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 >   新安装客户，可以点击【平台安装】按钮
 
-![](media/7dab40caeebe43be9addb80f30489b5f.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/平台安装.png)
 
 ### 主机选择
 
 1.  点击【平台安装】，系统判断可联网，则进入“在线安装”流程；
 
-![C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png](media/3b2b37250041dc13ced3a74815e768a4.png)
+![C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png](https://github.com/easycmdb/easycmdb/blob/master/img/在线安装.png)
 
 C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
 
@@ -101,15 +101,15 @@ C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
 
 2.环境检查完成后然后会出现组件下载。
 
-![](media/8afd6339e57c7ef755a38c1f3aa3c974.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/组件下载.png)
 
 3.已经安装完成。
 
-![](media/daed063e0f7d5a26e840c0863943e17a.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/安装完成.png)
 
 4.环境检测完成证明已经安装完成。
 
-![](media/b9a52d02ff0e0fcda60b9339ae8b68e8.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/环境检测完成.png)
 
 手动安装
 --------
@@ -141,7 +141,7 @@ C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
 
 （1）-h可以查看UC命令参数
 
-![](media/62dcdc9c8bb9c85baa99ba521013970c.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/查看uc命令参数.png)
 
 ### 单机部署EasyOps平台
 
@@ -153,7 +153,7 @@ C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
 执行命令例子：./bin/easyuc -ip 127.0.0.1 -license
 /tmp/easyops_Enterprise_0715.zl
 
-![](media/dcec666e3d6f1cd7e284dacacc669161.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/单机部署.png)
 
 ### EasyOps平台卸载
 
