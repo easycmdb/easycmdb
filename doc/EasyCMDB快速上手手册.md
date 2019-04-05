@@ -7,25 +7,25 @@ EasyCMDB快速上手手册
 
 首先我们进入平台页面，登录进去，看到平台的首页
 
-![](media/90db9bb58a24a42097780bccaba55dc7.png)
+![登录页面](https://github.com/easycmdb/easycmdb/blob/master/img/登录页面.png)
 
 -   平台首页
 
-![](media/a9fc401c636c9e43eb0d2c66f8c2e82f.png)
+![平台首页](https://github.com/easycmdb/easycmdb/blob/master/img/平台首页.png)
 
 ### 创建模型
 
 >   首先，【在右上角处】---【单击小齿轮】---【模型管理】---【新建资源模型】---【输入模型内容】
 
-![](media/94d5938aefe97067803651667569bcd6.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/输入模型内容.png)
 
 >   根据模型相对应的关系，输入内容，点击保存，则创建成功。如下图
 
-![](media/41eedce7ac2fdbfb4254891bd5fe8252.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/模型创建成功.png)
 
 >   安装流程：
 
-![](media/1775792728f434ec2a617a0713b777fc.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/安装流程.png)
 
 ### 建立模型关系
 
@@ -33,11 +33,11 @@ EasyCMDB快速上手手册
 
 >   流程：
 
-![](media/bb360d1b6a4e0d411cc725f95f7c704a.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/添加模型关系.png)
 
 >   下图是建立好的模型关系
 
-![](media/dae5fa2c854709395d28888a24e60a9b.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/模型关系.png)
 
 ### 创建实例
 
@@ -45,7 +45,7 @@ EasyCMDB快速上手手册
 
 >   下图是流程：
 
-![](media/1d6f612699521336b8e945e485caf421.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/创建实例流程.png)
 
 >   首先我们新建插件脚本格式：
 
@@ -66,13 +66,13 @@ json_data = [{
 AutoDiscoveryJson(json_data,object_id="HOST_DAEMO") \#object_id
 后面接的是模型的ID
 
-![](media/5d7513b123a14d897057ea87eb4b0aa1.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/新建插件脚本格式.png)
 
 >   然后点【执行】，会提示上传成功。这个时候还没有成功，然后点击自动采集，
 
 >   启动规则，这个时候我们的实例就创建成功了。
 
-![](media/41c753378ea7730b5f43e108cf062bf8.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/实例创建成功.png)
 
 ### 安装Agent录入主机信息
 
@@ -82,11 +82,11 @@ AutoDiscoveryJson(json_data,object_id="HOST_DAEMO") \#object_id
 
 >   流程：
 
-![](media/1292f7432cb6da951029d2cc7b05009e.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/选择安装agent.png)
 
 >   Agent安装完成后，对机器进行采集，成功后。入下图
 
-![](media/9e7fb2a51857692be014a1fb25946131.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/安装agent成功.png)
 
 ### 自动发现
 
@@ -94,8 +94,8 @@ AutoDiscoveryJson(json_data,object_id="HOST_DAEMO") \#object_id
 
 >   流程：
 
-![](media/e6cbafd8ccc0b6cdb66e491cb5dd2770.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/自动发现.png)
 
 下图是自动采集上报的数据成功的图
 
-![](media/89721e668842ecd5af2810f4053e6ffa.png)
+![](https://github.com/easycmdb/easycmdb/blob/master/img/自动采集.png)
