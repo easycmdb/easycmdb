@@ -16,11 +16,11 @@ git clone
 
 ### 系统版本
 
-1.  系统版本:CentOS/RHEL 6.5\~6.8
+系统版本:CentOS/RHEL 6.5\~6.8
 
 ### 硬件选择
 
-1.  最低配置: 4GB以上内存，磁盘空间50GB以上
+最低配置: 4GB以上内存，磁盘空间50GB以上
 
 ### 系统环境
 
@@ -39,7 +39,7 @@ ucpro可视化安装
 
 ### 下载ucpro安装包
 
-git clone xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+git clone 
 
 ### 部署ucpro
 
