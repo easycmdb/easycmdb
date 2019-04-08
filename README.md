@@ -3,13 +3,13 @@
 ## 下载使用
 * 推荐使用安装器可视化安装
 
-[下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz)
+  [下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz)
 
-[安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB安装指南.md)
+  [安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB安装指南.md)
 
 * 如设备处于未联网环境，可下载整包离线安装
 
-[下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-full-build.latest.tar.gz)
+  [下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-full-build.latest.tar.gz)
 
 ## 功能概述
 ![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
