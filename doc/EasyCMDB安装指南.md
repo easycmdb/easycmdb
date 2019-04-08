@@ -9,7 +9,7 @@ EasyCMDB安装指南
 
 ### 获取安装包
 
-git clone 
+git clone [http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
 
 安装环境准备
 ------------
@@ -39,7 +39,7 @@ ucpro可视化安装
 
 ### 下载ucpro安装包
 
-git clone 
+git clone [http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
 
 ### 部署ucpro
 
