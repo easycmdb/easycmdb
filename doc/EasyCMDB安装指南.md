@@ -9,7 +9,7 @@ EasyCMDB安装指南
 
 ### 获取安装包
 
-git clone [http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
+[http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
 
 安装环境准备
 ------------
@@ -39,7 +39,7 @@ ucpro可视化安装
 
 ### 下载ucpro安装包
 
-git clone [http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
+[http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz]
 
 ### 部署ucpro
 
@@ -92,10 +92,6 @@ git clone [http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-communit
 1.点击【平台安装】，系统判断可联网，则进入“在线安装”流程；
 
 ![C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png](https://github.com/easycmdb/easycmdb/blob/master/img/在线安装.png)
-
-C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
-
-C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png
 
 注意：如果出现报错可能是/usr/local/ucpro/ucpro_service/conf下没有license,需要卸载重新部署，然后把license放到conf目录下
 
