@@ -116,11 +116,11 @@ ucpro可视化安装
 
 2.进入安装目录cd EasyOps-xx.xx.xx
 
-3.安装EasyOps平台
+3.安装EasyCMDB平台
 
 -   a）进入安装包的目录下，执行./bin/easyuc -h可查看帮助文档
 
--   b）单机安装EasyOps平台,进入到解压后的目录下，参数说明: -ip (127.0.0.1), -org
+-   b）单机安装EasyCMDB平台,进入到解压后的目录下，参数说明: -ip (127.0.0.1), -org
     (default 8888), -p (本机可不填), -port(default 22),-u(default
     “root”),-license(选填)
 
@@ -139,9 +139,9 @@ ucpro可视化安装
 
 ![](https://github.com/easycmdb/easycmdb/blob/master/img/查看uc命令参数.png)
 
-### 单机部署EasyOps平台
+### 单机部署EasyCMDB平台
 
-1.单机安装easyops平台，进入解压后的首层目录下.
+1.单机安装easyCMDB平台，进入解压后的首层目录下.
 
 2.参数说明：-ip(127.0.0.1 -org(default 8888) -p(本机可不填) -port(default 22)
 -u(default "root") -license）
@@ -160,7 +160,7 @@ ucpro可视化安装
 
 3.程序安装的目录在/usr/local/easyops/下。
 
-### EasyOps平台卸载
+### EasyCMDB平台卸载
 
 1.把准备装的压缩包放到部署服务器随意目录下，例如：/tmp目录或者/root目录；
 
