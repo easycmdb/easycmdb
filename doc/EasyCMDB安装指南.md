@@ -29,8 +29,6 @@ EasyCMDB安装指南
 
 3.安装nc，安装命令：yum install -y nc
 
-完整安装
-========
 
 ucpro可视化安装
 ---------------
