@@ -107,69 +107,6 @@ ucpro可视化安装
 
 ![](https://github.com/easycmdb/easycmdb/blob/master/img/环境检测完成.png)
 
-手动安装
---------
 
-### 安装步骤
-
-1.上传安装包到机器上
-
-2.进入安装目录cd EasyOps-xx.xx.xx
-
-3.安装EasyCMDB平台
-
--   a）进入安装包的目录下，执行./bin/easyuc -h可查看帮助文档
-
--   b）单机安装EasyCMDB平台,进入到解压后的目录下，参数说明: -ip (127.0.0.1), -org
-    (default 8888), -p (本机可不填), -port(default 22),-u(default
-    “root”),-license(选填)
-
--   执行例子：./bin/easyuc -ip 127.0.0.1 -license
-    /tmp/easyops_Enterprise_0715.lic
-
--   （一定要在bin的同级目录执行）-license
-    参数选填！（如果不填，默认用php_license组件里的license文件(其中org是分配给您的组织编号,
-    -port, -u有默认值，-h 可以查看帮助文档, license可以找EasyOps人员获取)）
-
--   c)通过conf/EasyOps.yaml查看安装的组件，以及组件依赖关系
-
-### 查看UC命令参数
-
--h可以查看UC命令参数
-
-![](https://github.com/easycmdb/easycmdb/blob/master/img/查看uc命令参数.png)
-
-### 单机部署EasyCMDB平台
-
-1.单机安装easyCMDB平台，进入解压后的首层目录下.
-
-2.参数说明：-ip(127.0.0.1 -org(default 8888) -p(本机可不填) -port(default 22)
--u(default "root") -license）
-
-执行命令例子：./bin/easyuc -ip 127.0.0.1 -license
-/tmp/easyops_Enterprise_0715.zl
-
-![](https://github.com/easycmdb/easycmdb/blob/master/img/单机部署.png)
-
-### 安装完成
-
-1.安装成功后,在浏览器中输入对应IP进入即可。
-
-2.管理员用户名为EasyOps，初始密码为随机密码，保存在 \~/.EasyOps中, 执行"cat
-    \~/.EasyOps"命令查看密码。
-
-3.程序安装的目录在/usr/local/easyops/下。
-
-### EasyCMDB平台卸载
-
-1.把准备装的压缩包放到部署服务器随意目录下，例如：/tmp目录或者/root目录；
-
-2.解压要部署的安装包，进入解压后的首层目录下，例如：/tmp/easyops-5.build.001，不能进入bin目录下。
-
-3.用-ip参数指定机器，如果给本机安装，那么参数值是127.0.0.1；
-
-执行命令例子:
-
-./bin/easyuc -ip 127.0.0.1 -uninstall(一定要在bin的同级目录执行)
 
 
