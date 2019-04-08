@@ -64,7 +64,8 @@ json_data = [{
 }, ]
 
 AutoDiscoveryJson(json_data,object_id="HOST_DAEMO") \#object_id
-后面接的是模型的ID```
+后面接的是模型的ID
+```
 
 ![](https://github.com/easycmdb/easycmdb/blob/master/img/新建插件脚本格式.png)
 
