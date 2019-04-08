@@ -151,6 +151,15 @@ ucpro可视化安装
 
 ![](https://github.com/easycmdb/easycmdb/blob/master/img/单机部署.png)
 
+### 安装完成
+
+1.安装成功后,在浏览器中输入对应IP进入即可。
+
+2.管理员用户名为EasyOps，初始密码为随机密码，保存在 \~/.EasyOps中, 执行"cat
+    \~/.EasyOps"命令查看密码。
+
+3.程序安装的目录在/usr/local/easyops/下。
+
 ### EasyOps平台卸载
 
 1.把准备装的压缩包放到部署服务器随意目录下，例如：/tmp目录或者/root目录；
@@ -163,11 +172,4 @@ ucpro可视化安装
 
 ./bin/easyuc -ip 127.0.0.1 -uninstall(一定要在bin的同级目录执行)
 
-### 安装完成
 
-1.安装成功后,在浏览器中输入对应IP进入即可。
-
-2.管理员用户名为EasyOps，初始密码为随机密码，保存在 \~/.EasyOps中, 执行"cat
-    \~/.EasyOps"命令查看密码。
-
-3.程序安装的目录在/usr/local/easyops/下。
