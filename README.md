@@ -1,4 +1,5 @@
 # EasyCMDB基础版
+![version](https://github.com/easycmdb/easycmdb/blob/master/img/build-1-brightgreen.svg)
 
 ## 下载使用
 * 推荐使用安装器可视化安装
