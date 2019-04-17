@@ -87,7 +87,7 @@ ucpro可视化安装
 
 1.点击【平台安装】，系统判断可联网，则进入“在线安装”流程；
 
-![C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png](https://github.com/easycmdb/easycmdb/blob/master/img/在线安装.png)
+![C:\\Users\\wehat\\Desktop\\image2019-3-6 19_7_49.png](https://github.com/easycmdb/easycmdb/blob/master/img/机器选择.png)
 
 注意：如果出现报错可能是/usr/local/ucpro/ucpro_service/conf下没有license,需要卸载重新部署，然后把license放到conf目录下
 
