@@ -11,7 +11,8 @@
 * 如安装环境未联网，可下载整包离线安装
 
   [下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-full-build.latest.tar.gz)
-  [安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB基础版离线安装方式.docx)
+  
+  [安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB基础版离线安装方式.md)
 
 ## 功能概述
 ![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
