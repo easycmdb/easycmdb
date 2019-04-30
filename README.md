@@ -32,6 +32,7 @@ EasyCMDB是优维科技基于多年IT需求管理和项目实践，打破传统C
 - 应用场景
 - 版本更新
 - [API列表](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDBapi.md)
+- [API调用示例](https://github.com/easycmdb/easycmdb/blob/master/doc/cmdb_api_demo.py)
 
 ## 技术支持
 ### 操作手册
