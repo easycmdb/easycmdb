@@ -213,6 +213,7 @@ if __name__=='__main__':
     #cmdb创建接口使用, 创建一个应用(APP):
     params = {
         'name': u'测试新增应用test'    #新建该名称的应用
+        'businesses': {'name': u'公共系统', 'instanceId': '5bd47ce1d4452'}         #建立这个应用和应用系统“公共系统”的关系，‘businesses’是应用和应用系统的关系名称，可以在模型中查看。注意这里需要带上该应用系统的InstanceId,InstanceId是一个实例的唯一值。
     }
     instanceId = cmdb_add(objectId='APP', params=params)['instanceId']  #587a8a8a0bc7d  #新增应用，获取该应用的实例ID，用于后面的接口测试。
     #print instanceId
