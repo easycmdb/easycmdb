@@ -1,5 +1,8 @@
-# EasyCMDB基础版
-![version](https://github.com/easycmdb/easycmdb/blob/master/img/build-1-brightgreen.svg)
+## 在线DEMO环境
+
+* [http://easycmdb.easyops.cn](http://easycmdb.easyops.cn)
+ 用户名：demouser  密码：demouser
+ 
 
 ## 下载使用
 * 推荐使用安装器可视化安装
