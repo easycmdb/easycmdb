@@ -5,6 +5,8 @@
  
 
 ## 下载使用
+机器最低配置要求：2C4G，硬盘20G，Centos 6.5以上及Centos 7
+
 * 推荐使用安装器可视化安装
 
   [下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-ucpro-build.latest.tar.gz)
@@ -16,6 +18,7 @@
   [下载地址](http://cdn.uwintech.cn/data/release_package/packed_pkgs/cmdb-community-full-build.latest.tar.gz)
   
   [安装指南](https://github.com/easycmdb/easycmdb/blob/master/doc/EasyCMDB基础版离线安装方式.md)
+  
 
 ## 功能概述
 ![EasyCMDB](https://github.com/easycmdb/easycmdb/blob/master/img/EasyCMDB.png)
